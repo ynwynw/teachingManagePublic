@@ -15,7 +15,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot的高校教学管理系统(源代码+数据库+万字论文+ppt)162
+## 基于Java+Springboot+vue3的景区旅游门票管理系统(源代码+数据库+开题+ppt+2万字论文)162
 
 ## 一、系统介绍
 本项目前后端不分离(可以改为ssm版本)，分为学生、教师、管理员三种角色
